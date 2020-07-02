@@ -4,11 +4,21 @@
 }
 
 #content{
-    background-color: white;
+
 }
 
 #banner-principal{
     height: 300px;
     width: 100%;
     object-fit: cover;
+}
+
+.icon{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.icon:hover{
+    box-shadow: lightblue 3px 3px;
 }
