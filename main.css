@@ -1,0 +1,14 @@
+.navbar{
+    border-radius: 0 0 15% 15%;
+    border-bottom: 2px solid coral;
+}
+
+#content{
+    background-color: white;
+}
+
+#banner-principal{
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+}
